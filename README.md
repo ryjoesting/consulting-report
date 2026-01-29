@@ -4,5 +4,11 @@ This template is for Quarto, which is similar to R Markdown, for R Studio. This 
 
 This template was created for the ST 597 Statistical Consulting course at the University of Alabama.
 
-To get started, open template.qmd and modify it with your code and body text for your report. Note that bibliography and citations can be handled automatically.
+To get started:
+1. Navigate to a folder on your local machine where you want the project
+2. Open a terminal in that folder
+3. Run `quarto use template ryjoesting/consulting-report`. Choose yes or no for options.
+4. Edit `template.qmd`. This may have been automatically renamed to that of the folder you chose. Just edit the `.qmd` folder.
+5. Compile to get your report
+
 
